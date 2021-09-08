@@ -1,0 +1,1 @@
+Buenas compa este repo vamos a usar una vez que esten seguros de lo que hacen hagan el merge, trabajen en ramas nomas si?, y asi se les va a hacer mas facil una vez que esten seguros de que todo esta bien ahi hagan el merge y eso nm
